@@ -29,7 +29,7 @@ public class AsyncTaskDownloadImageActivity
 	private static Bitmap downloadBitmap;
 
 	private static ProgressBar cargando;
-	private static String url="http://www.telecinco.es/todoelmundoesbueno/pilar-rubio-estrena-todo-el-mundo-es-bueno_MDSVID20120625_0117_4.jpg";
+	private static String url="https://i1.wp.com/cursosdedesarrollo.com/wp-content/uploads/2017/05/final-architecture.png";
 	private static Button descarga;
 	
 /** Called when the activity is first created. */
